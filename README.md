@@ -90,8 +90,3 @@ Create a **dynamic Excel dashboard** and answer the following business questions
 - Demonstrated proficiency in Excel for real-world data-driven decision-making.
 
 
-## 📌 Author
-**[Your Name]**  
-Business Analyst | Data Enthusiast  
-[LinkedIn](https://www.linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
-
